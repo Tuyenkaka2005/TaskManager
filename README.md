@@ -1,9 +1,9 @@
-<img width="1290"  alt="5a692901-d117-47a2-9465-34317542ede3" src="https://github.com/user-attachments/assets/7b837d61-dc0a-44c3-9161-aeb12e03f22b" />
-<img width="1290" alt="b4582c4c-6f0f-4147-a78a-11339b593ded" src="https://github.com/user-attachments/assets/a3ed106c-a50f-4f45-986c-dc6f1fc6ada0" />
-<img width="1290" alt="2656098a-5c4f-4791-8502-937467d27e0b" src="https://github.com/user-attachments/assets/2d7d18d8-ef1d-4bc1-a9d7-822bbc495b98" />
-<img width="1290"  alt="28178f00-95ec-4dc2-ab13-1a29d434659f" src="https://github.com/user-attachments/assets/bfcf74a4-2011-430e-8926-7d1a410e6892" />
-<img width="1290"  alt="128b05fc-6c1b-42c9-b6e1-9bc7c985741f" src="https://github.com/user-attachments/assets/e0ac3df2-6663-4202-a614-b9044e43019e" />
-<img width="1290" alt="5e853cdd-7894-4098-b43d-5ce549a37005" src="https://github.com/user-attachments/assets/91fe3bbc-9836-49fb-98d7-319116e12f76" />
+<img width="200"  alt="5a692901-d117-47a2-9465-34317542ede3" src="https://github.com/user-attachments/assets/7b837d61-dc0a-44c3-9161-aeb12e03f22b" />
+<img width="200" alt="b4582c4c-6f0f-4147-a78a-11339b593ded" src="https://github.com/user-attachments/assets/a3ed106c-a50f-4f45-986c-dc6f1fc6ada0" />
+<img width="200" alt="2656098a-5c4f-4791-8502-937467d27e0b" src="https://github.com/user-attachments/assets/2d7d18d8-ef1d-4bc1-a9d7-822bbc495b98" />
+<img width="200"  alt="28178f00-95ec-4dc2-ab13-1a29d434659f" src="https://github.com/user-attachments/assets/bfcf74a4-2011-430e-8926-7d1a410e6892" />
+<img width="200"  alt="128b05fc-6c1b-42c9-b6e1-9bc7c985741f" src="https://github.com/user-attachments/assets/e0ac3df2-6663-4202-a614-b9044e43019e" />
+<img width="200" alt="5e853cdd-7894-4098-b43d-5ce549a37005" src="https://github.com/user-attachments/assets/91fe3bbc-9836-49fb-98d7-319116e12f76" />
 
 
 # TaskManager App 📝
